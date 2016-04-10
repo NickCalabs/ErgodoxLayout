@@ -904,8 +904,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RALT",
-                    "label": "RALT"
+                    "key": "MINUS",
+                    "label": "-"
                 }
             }
         },
@@ -917,8 +917,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RCTRL",
-                    "label": "RCTRL"
+                    "key": "EQUAL",
+                    "label": "="
                 }
             }
         },
